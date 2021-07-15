@@ -1,0 +1,21 @@
+{
+    "name": "athabasca",
+    "displayName": "Athabasca",
+    "description": "A VS Code theme inspired by the Glacier theme for Sublime Text",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Athabasca",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Athabasca-color-theme.json"
+            }
+        ]
+    }
+}
