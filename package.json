@@ -9,12 +9,23 @@
     "categories": [
         "Themes"
     ],
+    "keyword": [
+        "Theme",
+        "Dark Theme",
+        "Black Theme",
+        "Glacier Theme"
+    ],
     "contributes": {
         "themes": [
             {
                 "label": "Athabasca",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Athabasca-color-theme.json"
+                "path": "./themes/athabasca.json"
+            },
+            {
+                "label": "Athabasca Light",
+                "uiTheme": "vs-dark",
+                "path": "./themes/athabasca-light.json"
             }
         ]
     }
