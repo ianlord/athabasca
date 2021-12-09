@@ -28,4 +28,4 @@ other-yellow:     #f9ee86
 other-pink:       #d64379 
 background-light: #0c151c 
 background:       #0a1016 
-divider:          #192633
+divider:          #192633    #30475F66
