@@ -1,4 +1,4 @@
-![Athabasca Logo](icon.png)
+![Athabasca](img/banner.png)
 
 # Athabasca VS Code Theme
 Athabasca comprises two dark, colorful, high(ish) contrast themes inspired by the [Glacier Theme](https://github.com/shovelandsandbox/glacier-theme) for Sublime Text. 
