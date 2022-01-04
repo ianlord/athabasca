@@ -1,13 +1,22 @@
 {
     "name": "athabasca",
-    "displayName": "Athabasca",
-    "description": "A theme inspired by Glacier for Sublime Text",
+    "displayName": "Athabasca Theme",
+    "description": "A dark, colorful theme inspired by Glacier for Sublime Text",
     "version": "0.0.1",
     "publisher": "ianlord",
     "license": "MIT",
+    "homepage": "https://github.com/ianlord/athabasca",
+    "author": {
+        "name": "Ian Lord",
+        "email": "ian@typecode.com",
+        "url": "https://www.ianlord.com"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/ianlord/athabasca"
+    },
+    "bugs": {
+        "url": "https://github.com/ianlord/athabasca/issues"
     },
     "icon": "icon.png",
     "engines": {
@@ -16,6 +25,10 @@
     "categories": [
         "Themes"
     ],
+    "galleryBanner": {
+        "color": "#75ffcd",
+        "theme": "light"
+    },
     "keyword": [
         "theme",
         "dark theme",
@@ -25,7 +38,8 @@
         "night owl",
         "rad",
         "nord",
-        "duotone"
+        "duotone",
+        "high contrast"
     ],
     "contributes": {
         "themes": [
